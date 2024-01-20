@@ -1,0 +1,25 @@
+#searchBar{
+    width:400px;
+    margin:30px;
+}
+img{
+    width:100px;
+    height:113px;
+    margin-right:10px;
+    border-radius:100px;
+}
+.secondRow{
+    display:flex;
+
+}
+.cardSection{
+    margin:2px;
+    padding:10px;
+    width:230px;
+}
+.firstRow{
+    margin:2px;
+}
+.secondRow{
+    margin:2px;
+}
